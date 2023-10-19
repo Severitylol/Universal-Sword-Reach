@@ -4,5 +4,5 @@
 
 **Loadstring:**
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Severitylol/swordreach/main/swordreach.lua')()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Severitylol/Universal-Sword-Reach/main/swordreach.lua')()
 ```
