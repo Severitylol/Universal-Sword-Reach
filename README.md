@@ -1,5 +1,5 @@
 # Universal Swordreach For Roblox
-🚨 This script will only work with the **Roblox Classic Sword.** 🚨
+🚨 This script is compatible with only the **Roblox Classic Sword.** 🚨
 1. Copy and paste the loadstring into your executor
 2. Then execute and dominate! >:)
 
