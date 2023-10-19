@@ -1,5 +1,5 @@
---// Setting \--
-local range = 15
+--// Settings \--
+local range = 30
 
 --// Variable \--
 local player = game:GetService("Players").LocalPlayer
