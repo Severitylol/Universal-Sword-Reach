@@ -4,7 +4,7 @@
 2. Then execute and dominate! >:)
 
 # Settings
-ℹ️ You can adjust the reach of the sword by changing the number from 30 to whatever you want. I made it 30 because it is less detectable, but you can customize it to your desires! :) 
+ℹ️ You can adjust the reach of the sword by changing the number from 30 to whatever you want. I made it 30 because it is less detectable, but you can customize it to your satisfaction! :) 
 
 # Loadstring
 ```lua
