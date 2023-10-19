@@ -2,7 +2,7 @@
 1. Copy and paste the loadstring into your executor
 2. Then execute and dominate! >:)
 
-**__Loadstring__**
+**Loadstring:**
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Severitylol/swordreach/main/swordreach.lua')()
 ```
