@@ -1,7 +1,6 @@
-<div>
-  <h1>Universal Swordreach For Roblox</h1>
-  <p>Compatible with only the <strong>Roblox Classic Sword.</strong> 🚨</p>
-  <ol>
+# Universal Swordreach For Roblox
+  - Compatible with only the <strong>Roblox Classic Sword
+    
     <li>Copy and paste the loadstring into your executor</li>
     <li>Execute and dominate sword fighting games!</li>
   </ol>
